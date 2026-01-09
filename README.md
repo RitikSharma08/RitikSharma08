@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development , DSA ,Java, SQL and Problem Solving, etc.
 - 🌱 I’m currently learning DSA in Java & also exploring new technology.
 - 💞️ I’m looking to collaborate on various new project & learning.
-- 📫 How to reach me ritik.sha1510@gmail.com, rtksh15@gmail.com .
+- 📫 How to reach me ritik.sha1510@gmail.com , rtksh15@gmail.com .
 
 
 <!---
